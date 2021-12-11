@@ -9,6 +9,7 @@ import org.apache.shiro.crypto.hash.SimpleHash;
  */
 public class PasswordHelper {
 
+
     /**
      * 随机数生成器
      */
